@@ -7,6 +7,7 @@ A Machine Learning-based Email Spam Classification web application that predicts
 - **Intern ID:** CITS1938
 - **Name:** Madhav B Sheshwani
 - **Project Name:** Email Spam Classifier
+- **Project Duration:** 6 Weeks
 
 ## Project Overview
 
